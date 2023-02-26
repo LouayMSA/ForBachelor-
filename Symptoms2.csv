@@ -1,0 +1,111 @@
+Smell,"Feel - I feel it (i.e. hesitation, shimmy, vibration, or a pull)",Ugh! - It won't start,"Hear - I hear it (i.e. a rattle, a knock, or a squeal)","See - I see it (i.e. oil leak, warning light, or smoke)",Engine,Engine Performance,Tires & Wheels,Brakes,Upholstery & Interior,Lights,Heating & Air Conditioning,Steering & Handling,Check Engine & Warning Lights,Transmission,Exterior Body,Electrical Accessories,,,,,
+Rotten eggs,"Excessive play - Looseness, lack of response in the steering wheel",The engine cranks over slowly,Hiss - Continuous sound like air escaping,Smoke,Vehicle runs hot,Idle fluctuates,Wheels,I have a hard brake pedal.,Damaged carpet,Brake lights,No hot air when heat is on,My vehicle pulls,Tire Pressure Light (TPMS),All wheel drive,Soft top damaged,Power Mirrors,,,,,
+Gasoline,Drifts - Gradual movements to one side,The engine cranks normally but does not start,"Squeal - Continuous, high pitched sound",Puddle or leak,Overheating,Idle drops and almost dies,Tires,My brakes pull.,Seat belt not reatracting properly,Headlights,No cold air when A/C is on,My steering wheel shakes,Battery Charge Warning Light,4 wheel drive,Right Side (Passenger),Wipers,,,,,
+Mildew,Pulls - Sharp movement to one side,The vehicle is backfiring when trying to start,"Knock - Heavy, loud, repeating sound like a knock on the door",Tire looks flat,"Engine missfiring, or loss of power",High Idle,,My brakes are grinding.,Damaged dashboard,Turn signals,No air out of the vents when I turn on the a/c or heat,My steering wheel is hard to turn,Check Engine Light,Automatic transmission,Rear,Power Windows,,,,,
+Exhaust smell,Pulsation - Fluctuation of the brake pedal when the brakes are applied,Nothing,Tap - Light repetitive sound. Louder than a click,Warning light is on,Engine vibration,Hesitation,,My brakes are squealing.,Power outlet does not work,Tail light,"The fan speeds are not working properly e.g., High works but the other speeds do not.",My vehicle drifts,Temperature Warning Light,Manual Transmission,Front,,,,,,
+Burning oil,Vibration - Vehicle shakes. Ususally felt in the steering wheel or the seat,"Repeating clicking sound: ""click, click, click""",Clunk - A random thumping soun,,,Rough running engine,,My ABS light is on.,Power seats not working,Damaged Light Assembly,Windshield fogs up with the defroster setting on,I hear a clunking sound when turning,ABS Warning Light,,Left Side (Drivers),,,,,,
+Antifreeze (sweet smell),Sway - Gradual movement from side to side,"A spinning, whinning, or gear grinding sound","Chirp - High pitched rapidly repeating sound, like birds chirping",,,Carburetor engine stalling and running rough at low RPM,,My brake warning light is on.,Seat belt not locking,,,I hear a squealing sound when turning the wheel,Oil Pressure Warning Light,,,,,,,,
+,Shimmy - Rapid side to side movement of the front wheels,One strong click or knock,Rattle - Marbles in a can like something loose,,,Rough idle,,I have a spongy or low brake pedal.,Rear defroster is not working,,,My vehicle bounces excessively over bumps,"Check Engine Light on with code P0382 or, P0400-P0408",,,,,,,,
+,,,,,,Stalling,,I have a pulsating brake pedal.,,,,My vehicle bottoms out over bumps,Brake Warning Light,,,,,,,,
+,,,,,,Ignition misfire,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Cover type,,,All the time,,,Engine Compartment
+,,,,,,,,,,,,,,,Face bar type,,,"Only when engine is running, idling.",,,Rear of the Vehicle
+,,,,,,,,,,,,,,,Metal,,,,,,Inside the vehicle when the heat or A/C is turned on.
+,,,,,,,,,,,,,,,Plastic,,,Inside the vehicle,,,Only outside the vehicle.
+,,,,,,,,,,,,,,,,,,Outside the vehicle,,,
+,,,,,,,,,,,,,,,Wipers are only working on certain speeds or not working on intermittent,,,When the heater is on,,,Not Sure
+,,,,,,,,,,,,,,,When turning the wipers off they come to rest in the wrong position,,,After the vehicle is warmed up,,,Through the steering wheel
+,,,,,,,,,,,,,,,,,,Constantly when traveling at higher speeds,,,Through the seats
+,,,,,,,,,,,,,,,,,,When braking,,,Front Left
+,,,,,,,,,,,,,,,,,,When accelerating from a stop,,,Front Right
+,,,,,,,,,,,,,,,,,,Only when turning,,,Front
+,,,,,,,,,,,,,,,,,,All the time.,,,Rear
+,,,,,,,,,,,,,,,,,,When stopping,,,From the font wheels
+,,,,,,,,,,,,,,,,,,Only when the vehicle is moving,,,Under the vehicle
+,,,,,,,,,,,,,,,,,,Only when I start the vehicle.,,,I'm not sure
+,,,,,,,,,,,,,,,,,,When putting the vehicle into gear,,,Blue
+,,,,,,,,,,,,,,,,,,When turning,,,Black
+,,,,,,,,,,,,,,,,,,When going over bumps,,,White
+,,,,,,,,,,,,,,,,,,When the engine is running,,,Front tires are wearing on the outside edge
+,,,,,,,,,,,,,,,,,,When I start the car.,,,Front tires are wearing on the inside edge
+,,,,,,,,,,,,,,,,,,When I accelerate,,,Tires wearing on both edges
+,,,,,,,,,,,,,,,,,,Engine Compartment,,,Feathered
+,,,,,,,,,,,,,,,,,,Under the vehicle,,,Tires wearing in the middle
+,,,,,,,,,,,,,,,,,,Under the rear of the vehicle,,,"Flat spots, cupping or various wear all over tire"
+,,,,,,,,,,,,,,,,,,Exhaust,,,Grinding
+,,,,,,,,,,,,,,,,,,Automatic transmission fluid - Red-pinkish to redish-brown in colo,,,Whining
+,,,,,,,,,,,,,,,,,,Engine Oil - Brown to blackish in colo,,,Popping
+,,,,,,,,,,,,,,,,,,"Coolant - Has a watery consistancy, can be green or orange in color; depending on the vehicle",,,Clunking or popping noise
+,,,,,,,,,,,,,,,,,,Power steering fluid - Red or pinkish to light brown in colo,,,Grinding noise
+,,,,,,,,,,,,,,,,,,Battery Charge Warning light,,,Will not engage front wheels
+,,,,,,,,,,,,,,,,,,ABS Warning Light,,,Will not shift out of gear
+,,,,,,,,,,,,,,,,,,Oil Pressure Warnign Light,,,Rear output seal
+,,,,,,,,,,,,,,,,,,Brake Warning Light,,,Input seal
+,,,,,,,,,,,,,,,,,,Check Engine Light,,,Lubricant leaking
+,,,,,,,,,,,,,,,,,,"Check Engine Light on with code P0382 or, P0400-P0408",,,Transmission hard to shift
+,,,,,,,,,,,,,,,,,,Wheel feels loose or wobbles while driving,,,Abnormal transmission noise
+,,,,,,,,,,,,,,,,,,"Cracked, bent or damaged wheel",,,Transmission locked in gear
+,,,,,,,,,,,,,,,,,,Tire looks flat,,,Transmission makes noise
+,,,,,,,,,,,,,,,,,,Tires screech when turning at low speeds,,,Gears clash or grind when shifting
+,,,,,,,,,,,,,,,,,,Abnormal tire wear,,,Transmission jumps out of gear
+,,,,,,,,,,,,,,,,,,Yes,,,Hard clutch pedal effort
+,,,,,,,,,,,,,,,,,,No,,,The clutch pedal chatters (grabbing feeling)
+,,,,,,,,,,,,,,,,,,One headlight is out,,,No pedal return (clutch pedal stays on floor after depressed)
+,,,,,,,,,,,,,,,,,,One high beam is out,,,Pulsating clutch pedal
+,,,,,,,,,,,,,,,,,,The headlights are not pointing in the correct direction,,,The clutch will not disengage
+,,,,,,,,,,,,,,,,,,"Turn signal, is out or is flashing faster than normal",,,Abnormal clutch noise
+,,,,,,,,,,,,,,,,,,None of the turn signals are working,,,Clutch slips
+,,,,,,,,,,,,,,,,,,One tail light is out,,,Window Belt Strip
+,,,,,,,,,,,,,,,,,,All the tail lights are out,,,Window Run Channel
+,,,,,,,,,,,,,,,,,,Headlight Cover,,,Fender Trim
+,,,,,,,,,,,,,,,,,,Headlight Door,,,Fender Liner
+,,,,,,,,,,,,,,,,,,Headlight Assembly,,,Mud Guard/Protector
+,,,,,,,,,,,,,,,,,,Turn Signal Assembly,,,Fender
+,,,,,,,,,,,,,,,,,,Side Marker Light,,,Antenna Mast
+,,,,,,,,,,,,,,,,,,Cornering Light,,,Energy Absorber
+,,,,,,,,,,,,,,,,,,Tail Light Assembly,,,Bumper
+,,,,,,,,,,,,,,,,,,Fog Light,,,Rear step bumper
+,,,,,,,,,,,,,,,,,,Parking Light Assembly,,,Reinforcement
+,,,,,,,,,,,,,,,,,,Making noise,,,Insulator
+,,,,,,,,,,,,,,,,,,Not working,,,Hood
+,,,,,,,,,,,,,,,,,,Transfer case noise,,,Hinge
+,,,,,,,,,,,,,,,,,,Driveshaft problem,,,Lock assembly
+,,,,,,,,,,,,,,,,,,Transfer case malfunction,,,Grille
+,,,,,,,,,,,,,,,,,,Leaking oil,,,Grille insert
+,,,,,,,,,,,,,,,,,,Transmission has a hard upshift,,,Turn Signal Assembly
+,,,,,,,,,,,,,,,,,,Harsh shifts (car jerks when it upshifts),,,Headlight Assembly
+,,,,,,,,,,,,,,,,,,Harsh engagement (Car jerks when shifted into gear),,,Headlight Door
+,,,,,,,,,,,,,,,,,,There is a growling or grinding noise,,,Headlight Cover
+,,,,,,,,,,,,,,,,,,Delayed engagement (Car does not respond immediately when shifted into gear),,,Side Marker Light
+,,,,,,,,,,,,,,,,,,There is a clunking noise when the transmission is shifting gears,,,Fog Light
+,,,,,,,,,,,,,,,,,,Transmission slips between shifts (engine revs),,,Cornering Light
+,,,,,,,,,,,,,,,,,,Transmission will not downshift while passing,,,Parking Light Assembly
+,,,,,,,,,,,,,,,,,,When the transmission is disengaged (when the vehicle is not in gear),,,Front bumper
+,,,,,,,,,,,,,,,,,,When the transmission is engaged (when the vehicle is in gear),,,License plate brackets
+,,,,,,,,,,,,,,,,,,Clutch area,,,Bumper Braket or Side supports
+,,,,,,,,,,,,,,,,,,Rear Door,,,Bumper trim
+,,,,,,,,,,,,,,,,,,Front Door,,,Front end cover
+,,,,,,,,,,,,,,,,,,Fender,,,Valance
+,,,,,,,,,,,,,,,,,,Rear body panel,,,Spoiler
+,,,,,,,,,,,,,,,,,,"Rear bumper cover (also includes absorber, reinforcement, License bracket, side supports, reverse sensors, backup camera)",,,Header panel
+,,,,,,,,,,,,,,,,,,Trunk will not stay open by itself,,,Radiator support
+,,,,,,,,,,,,,,,,,,Spoiler,,,Cooling Fan Shroud
+,,,,,,,,,,,,,,,,,,Rear Fender,,,Yes
+,,,,,,,,,,,,,,,,,,Tailgate,,,No
+,,,,,,,,,,,,,,,,,,Emblem,,,The windows are working from their individual switch but not the master switch or vice versa
+,,,,,,,,,,,,,,,,,,Metal Front Bumper,,,All of the power windows are not going up or down
+,,,,,,,,,,,,,,,,,,"Hood (includes; lock, supports, hinges, insulator)",,,The two rear windows are not going up or down
+,,,,,,,,,,,,,,,,,,Grille,,,
+,,,,,,,,,,,,,,,,,,"Front Lamps (includes; Headlamps, signal lamps, fog lamps, etc.)",,,
+,,,,,,,,,,,,,,,,,,"Fascia (Front cover) (also includes absorber, reinforcement, License bracket,side supports, sensors, valance, spoiler)",,,
+,,,,,,,,,,,,,,,,,,"Radiator support ( includes; core support, tie bars, splash shields)",,,
+,,,,,,,,,,,,,,,,,,One or both power mirrors are not moving or are making a clicking sound when moving.,,,
+,,,,,,,,,,,,,,,,,,Both power mirrors are not moving,,,
+,,,,,,,,,,,,,,,,,,Multiple windows are not going up or down,,,
+,,,,,,,,,,,,,,,,,,The window is moving up and down very slowly,,,
+,,,,,,,,,,,,,,,,,,The window is moving up and down at an angle,,,
+,,,,,,,,,,,,,,,,,,One window is not going up or down,,,
