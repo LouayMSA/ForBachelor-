@@ -1,0 +1,102 @@
+﻿Symptom 1,Symptom 2,Symptom 3,car_problem
+The engine turns over slowly,The headlights go out as the engine was cranking,There is a cruddy-like substance on the terminals,Flow of electrical current to starter interfered
+The engine turns over slowly,The headlights go out as the engine was cranking,There is no cruddy-like substance on the terminals,Weak battery or  Recharge the battery
+The engine turns over slowly,The headlights go out as the engine was cranking,Fuel tank is empty,car out of fuel
+The engine turns over slowly,The headlights did not go out as the engine was cranking,There is grinding or growling sound,Bad starter
+The engine turns over slowly,The headlights did not go out as the engine was cranking,There is no grinding or growling sound,Frozen battery
+The engine turns over,There is white smoke coming from the exhaust while driving,There is no grinding or growling sound,Condensation in steaming off
+The engine turns over,There is white smoke coming from the exhaust while driving,The engine has warmed up,blown head gasket
+The engine turns over,There is black smoke coming from the exhaust while driving,There is dirt on the air filter,clogged air filter
+The engine turns over,There is black smoke coming from the exhaust while driving,There is no dirt on the air filter,bad fuel injection sensor
+The engine turns over,There is blue smoke coming from the exhaust always,The engine has less power than it used to be when going up hills,bad rings
+The engine turns over,There is blue smoke coming from the exhaust while accelerating,,bad valve stem seals
+The engine turns over,There is blue smoke coming from the exhaust always,The engine power is as it used to be,leaking turbocharger seals
+The engine turns over,Loss of engine power occurs suddenly,Fuel injectors are clogged,fuel injection system
+The engine turns over,The headlights go out as the engine was cranking,Smell of Fuel,Car is flooded
+High engine temperature,Hot weather,low coolant level warning light is on,Lack of coolant
+High engine temperature,Hot weather,no low coolant level warning light is on,The cooling system is clogged - it needs to be cleaned
+High engine temperature,After a long drive,The air conditioner is on most of the time,check the ventilation unit
+High engine temperature,After a long drive,Air conditioner is off most of the time,The alternator belt may be slipping or the fan clutch may be damaged
+Car exhaust smoke,black smoke,The smoke comes out of the exhaust while driving,Check if the air filter is clean. If so then check the fuel injection sensor
+Car exhaust smoke,black smoke,The smoke comes out of the exhaust when starting and then stops,The engine sensor may be faulty
+Car exhaust smoke,white smoke,The smoke comes out of the exhaust while driving even after the engine has warmed up,A new head gasket may be needed
+Car exhaust smoke,white smoke,The smoke comes out of the exhaust while driving and stops after the engine has warmed up,This is a normal situation
+Car exhaust smoke,white smoke,cold weather,This is a normal situation
+Car exhaust smoke,white smoke,The smoke comes out during startup and then stops,The engine sensor may be damaged
+The car shakes,The whole car shakes,It happens while braking,Matching problem between the brake pads and the front discs
+The car shakes,The whole car shakes,It happens during acceleration,Check for a vacuum leak or moisture in the distributor cap (distributor)
+The car shakes,The whole car shakes,It happens while driving at a certain speed,Check the balance of the four wheels
+The car shakes,The brake pedal is shaking,The braking also has vibrations from the front,Matching problem between the brake pads and the front discs
+The car shakes,The brake pedal is shaking,It only happens under heavy braking and there is no vibration from the front end,This is a normal situation. The anti lock system pulsates the brakes
+The car shakes,The steering wheel shakes,It happens while braking,Matching problem between the brake pads and the front discs
+Smell Gasoline,All the time,Coming From Engine Compartment,Fuel Rail or Fuel Pressure Regulator Leak or Fuel Injector Leak
+Smell Gasoline,All the time,Rear of the Vehicle,Fuel Tank Leak or Fuel Pump Assembly Failure or Fuel Filter Leak
+Smell Gasoline,Only when engine is running or  idling.,Inside the vehicle when the heat or A/C is turned on.,Fuel Rail or Fuel Pressure Regulator Leak
+Smell Gasoline,Only when engine is running or  idling.,Only outside the vehicle.,Fuel Tank Leak
+Smell Exhaust ,Only outside the vehicle,,Exhaust System Leak
+Smell Exhaust ,Inside the vehicle,,Exhaust Leak (Front Pipe) or Exhaust Manifold Gasket Leak
+Smell Mildew,,,A/C vents (Foul Smell)
+Smell Rotten eggs,,,Rich Fuel Condition or Catalytic Converter Failure
+Smell Burning oil,,,Engine Oil Leak (Odor)
+Smell Antifreeze (sweet smell),When the heater is on,,Leaking heater core
+Smell Antifreeze (sweet smell),After the vehicle is warmed up,,Coolant Leak (smoke)
+I Feel Excessive play - Looseness,lack of response in the steering wheel,,Power Steering Rack (Internal Wear) or Loose/Worn Tie Rod Ends
+I Feel Drifts ,Gradual movements to one side,,Uneven Tire Pressure or Wheels out of Alignment or Loose or Worn Front End Component
+I Feel Pulls,Sharp movement to one side,,Dragging Front Brake or  Wheels out of Alignment or  Loose or Worn Front End Component
+I Feel Pulsation - Fluctuation of the brake pedal when the brakes are applied,,,Out-of-Round Brake Drums or Loose or Worn Wheel Bearing or Warped Brake Rotors
+I Feel Sway - Gradual movement from side to side,,,Loose or Worn Suspension Parts or Worn Out Shocks/Struts
+I Feel Shimmy - Rapid side to side movement of the front wheels,,,Loose or Worn Wheel Bearing or Loose or Worn Front End Component
+Ugh! The engine cranks over slowly,,,Corroded Battery Terminals or Bad Starter or Weak Battery
+Ugh! The engine cranks normally but does not start,,,Bad Timing Chain/Belt or No Spark or No Fuel Pressure
+Ugh! The vehicle is backfiring when trying to start,,,Bad Timing Chain/Belt
+Ugh! Nothing,,,Bad Starter or Faulty Ignition Switch or Corroded Battery Terminals or Dead Battery
+"Ugh! Repeating clicking sound: ""click, click, click""",,,Corroded Battery Terminals or Bad Starter or Weak Battery
+"Ugh! A spinning, whinning, or gear grinding sound",,,Bad Starter
+Ugh! One strong click or knock,,,Seized Engine or Bad Starter
+I Hear Hiss - Continuous sound like air escaping,,,Vacuum Leak or Air Intake Leak
+"I Hear Knock - Heavy, loud, repeating sound like a knock on the door",,,Worn Internal Engine Components or Low Engine Oil Level
+I Hear Tap - Light repetitive sound. Louder than a click,,,Low Engine Oil Level or Low oil pressure or Engine valve adjustment
+I See Tire looks flat,,,Damaged Valve Stem or Punctured Tire
+The Engine Vehicle runs hot,,,Broken/Missing Fan Shroud Assembly or Faulty Engine Cooling Fan
+The Engine Overheating,,,Faulty Engine Cooling Fan or Stuck Thermostat or Low Coolant Level
+"The Engine Engine missfiring, or loss of power",,,Worn Distributor or Bad Ignition Component
+The Engine Engine vibration,,,Engine Vibration (Harmonic Balancer) or Worn Engine Mounts
+The Engine Idle fluctuates,,,Check Engine Light or Check Ignition Coil for Spark or Clogged Air Filter
+The Engine Idle drops and almost dies,,,Check Engine Light On (Idle Control Valve)
+The Engine High Idle,,,Faulty fuel filter or Check Engine Light or Vacuum leaks
+The Engine Hesitation,,,Clogged Air Filter or Check Engine Light or Faulty fuel filter
+The Engine Rough running engine,,,Check Ignition Coil for Spark or Fuel system cleaning or Check Engine Light
+The Engine Carburetor engine stalling and running rough at low RPM,,,Bad Carburetor
+The Engine Rough idle,,,Rough Idle (Throttle Body)
+The Engine Stalling,,,Check Ignition Coil for Spark or Fuel pump replacement or Check Engine Light
+The Engine Ignition misfire,,,Engine Tune-up or Fouled Spark Plug or Faulty Coil Over Plug
+The Brakes I have a hard brake pedal.,,,Vacuum leaks or Brake Booster Failure
+The Brakes My brakes pull.,,,Binding Brake Caliper or Loose or Worn Suspension Parts or Uneven Tire Pressure or Contaminated Brake Linings
+The Brakes My brakes are grinding.,,,Worn Rear Brakes or Worn Front Brakes
+The Brakes My brakes are squealing.,,,Brake Pad Quality and Rotor Finish or Worn Brake Pads or Brake Pad Wear Indicator is Contacting Rotor
+The Brakes My ABS light is on.,,,ABS System Fault
+The Brakes My brake warning light is on.,,,Parking Brake Lever Engaged or Faulty Parking Brake Switch or Low Brake Fluid
+The Brakes I have a spongy or low brake pedal.,,,Brake Master Cylinder Internal Leak. or Brakes not Adjusted or Air in Brake Hydraulic System
+The Brakes I have a pulsating brake pedal.,,,Out-of-Round Brake Drums or Loose or Worn Wheel Bearing or Warped Brake Rotors
+The Upholstery Damaged carpet,,,Interior Floor Carpet (Damage)
+The Upholstery Seat belt not reatracting properly,,,Seat Belt Malfunction
+The Upholstery Damaged dashboard,,,Damaged Dashboard
+The Upholstery Power outlet does not work,,,Blown Fuse
+The Upholstery Power seats not working,,,Power Seat Switch Failure or Blown Fuse or Bad power seat motor
+The Upholstery Seat belt not locking,,,Seat Belt Malfunction
+Heating No hot air when heat is on,,,Clogged Heater Core or Bad Thermostat or Bad Heater Control Valve
+Heating No cold air when A/C is on,,,No Cold Air A/C Line/Hose or No Cold Air A/C Condenser or No Cold Air A/C Compressor
+"Heating The fan speeds are not working properly e.g., High works but the other speeds do not.",,,Blower Resistor Malfunction
+The Upholstery Rear defroster is not working,,,Link Defroster grid or Blown Fuse
+Heating Windshield fogs up with the defroster setting on,,,Leaking heater core
+Steering My vehicle pulls,,,Dragging Front Brake
+Steering My steering wheel shakes,,,Tires/Wheels Out of Balance or Damaged. or Worn Wheel Hub Assembly or Loose or Worn Front End Component
+Steering My steering wheel is hard to turn,,,Power Steering Drive Belt (Damage/Loose) or Low Power Steering Fluid or Faulty power steering pump
+Steering My vehicle drifts,,,Uneven Tire Pressure or Wheels out of Alignment or Loose or Worn Front End Component
+Steering I hear a clunking sound when turning,,,"Worn or ""dry"" ball joint or Axle Assembly Failure or Loose/Worn Tie Rod Ends"
+Steering I hear a squealing sound when turning the wheel,,,Power Steering Drive Belt (Damage/Loose) or Low Power Steering Fluid or Faulty power steering pump
+Steering My vehicle bounces excessively over bumps,,,Worn Shocks Absorbers or Worn Struts
+Steering My vehicle bottoms out over bumps,,,Worn leaf springs or Worn coil springs or Worn Shocks Absorbers or Worn Struts
+Check Battery Charge Warning Light,,,Faulty Alternator or Serpentine belt slipping/damaged
+Check Check Engine Light,,,Check Engine Light (Fault Codes)
+Check Oil Pressure Warning Light,,,Faulty oil pressure sensor or Worn oil pump or Low Engine Oil
